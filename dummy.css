@@ -1,0 +1,16 @@
+#main{
+    height: 80vh;
+    font-size: xx-large;
+}
+ #main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#icon{
+    height: 50vh;
+}
+h1{
+    display: block;
+    padding: 5px;
+}
